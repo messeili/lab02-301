@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+    
+main{
+    padding: 20px;
+    min-height: 100vh;
+    width: 100%;
+}
